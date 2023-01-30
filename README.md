@@ -6,4 +6,3 @@ A repo to test GitHub-Jira integration
 
 1. Added GitHub repo
 2. Add source code
-3. Test message
