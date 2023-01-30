@@ -1,0 +1,4 @@
+# The Project Schedule
+
+    |-----------|-----------|
+   Start     Milestone     End
